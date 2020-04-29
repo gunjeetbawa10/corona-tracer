@@ -1,5 +1,5 @@
 # Corona Virus Tracer
-![Corona Virus Tracer]
+
 
 ### [Live Site]
 ## Introduction
